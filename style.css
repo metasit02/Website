@@ -9,9 +9,8 @@ header {
     background-color: black;
     color: rgb(255, 255, 255);
     height: 70px;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
-    font-size: xx-large;
 }
 footer {
     background-color: black;
@@ -27,8 +26,9 @@ footer {
 }
 .headname1 {
     color: white;
+    font-size: xx-large;
 }
 .headname2 {
     color: rgb(255, 255, 255);
-    font-size: medium;
+    font-size: small;
 }
