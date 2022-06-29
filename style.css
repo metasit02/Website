@@ -25,6 +25,9 @@ footer {
     width: 1024px; 
     margin: 0 auto;
 }
-.headname {
+.headname1 {
     color: white;
+}
+.headname2 {
+    color: black;
 }
