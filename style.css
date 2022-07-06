@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://i.pinimg.com/564x/0b/45/64/0b4564f4e99be033c37fbe4226e6d6d7.jpg');
+    background-image: url("images/a8297736a736da792b839f872b63f1cf.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Mali', cursive;
@@ -34,7 +34,7 @@ footer {
 }
 
 .graphic {
-    background-image: url("images/chanthaburi_logo.png");
+    background-image: url("images/chantaburi-cover.jpeg");
     height: 320px
     padding: auto;
 }
