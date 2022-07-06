@@ -11,6 +11,7 @@ header {
     height: 70px;
     padding: 20px;
     text-align: center;
+    border: solid white;
 }
 footer {
     background-color: black;
@@ -19,6 +20,7 @@ footer {
     padding: 10px; 
     text-align: center;
     font-size: large;
+    border: solid white;
 }
 .mainpage {
     width: 1024px; 
