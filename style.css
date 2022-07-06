@@ -35,4 +35,6 @@ footer {
 
 .graphic {
     background-image: url("images/chanthaburi_logo.png");
+    height: 320px
+    padding: auto;
 }
