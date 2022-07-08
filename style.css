@@ -1,48 +1,55 @@
 body {
+    color: white;
+    font-family: 'Mali', cursive;
     background-image: url("images/Background2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Mali', cursive;
-    color: white;
 }
+
 header {
     background-color: black;
+    border: 1px solid white;
     color: rgb(255, 255, 255);
     height: 70px;
     padding: 20px;
     text-align: center;
-    border: 1px solid white;
 }
+
 footer {
     background-color: black;
+    border: 1px solid white;
     color: white;
+    font-size: large;
     height: 50px;
     padding: 10px; 
     text-align: center;
-    font-size: large;
-    border: 1px solid white;
 }
+
 .mainpage {
-    width: 1024px; 
     margin: 0 auto;
+    width: 1024px; 
 }
+
 .headname1 {
     color: white;
     font-size: xx-large;
 }
+
 .headname2 {
     color: rgb(255, 255, 255);
     font-size: medium;
 }
+
 .headname3 {
     color: rgb(255, 255, 255);
     font-size: medium;
 }
+
 .graphic {
+    border: 1px solid rgb(0, 0, 0);
     background-image: url("images/chantaburi-cover.jpeg");
     height: 320px;
     padding: auto;
-    border: 1px solid rgb(0, 0, 0);
 }
 
 .maps {
@@ -51,7 +58,12 @@ footer {
 }
 
 .top10 {
+    border: 1px solid rgb(0, 0, 0);
     background-color: white;
     padding: 10px;
-    border: 1px solid rgb(0, 0, 0);
+}
+
+.img10 {
+    border-radius: 10px;
+    width: 190px;
 }
