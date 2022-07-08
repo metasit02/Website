@@ -49,5 +49,6 @@ footer {
 
 .top10 {
     background-color: white;
-    padding: 10px:
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
 }
