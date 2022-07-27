@@ -81,6 +81,7 @@ a {
     color: black;
     height: 40px;
     font-size: smaller;
+    font-stretch: extra-expanded;
 }
 
 .topmenu ul {
